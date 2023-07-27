@@ -1,5 +1,8 @@
 {
   "name": "one-time-password",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
   "vesioni": "0.0.1",
   "private": true,
   "dependencies": {
